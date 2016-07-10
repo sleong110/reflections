@@ -1,2 +1,5 @@
 What happens when you initialise a repository? Why do you need to do it?
 When you initialise a repository it started the files in the repository will be tracked. Each commit will track the changes you made on the files in the repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is the area where you group your commit based on a logical change. Working directory is where you keep all the files that you are currently working on. Repository is where you keep all your files that were committed. The files in repository is tracked. The value that staging area offers is that it allows you to group the files that you want to commit in a logical and meaningful manner. 
