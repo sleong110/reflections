@@ -1,0 +1,2 @@
+What happens when you initialise a repository? Why do you need to do it?
+When you initialise a repository it started the files in the repository will be tracked. Each commit will track the changes you made on the files in the repository.
