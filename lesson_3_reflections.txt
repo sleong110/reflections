@@ -6,3 +6,6 @@ I want to always pull changes manually because in that way I will know what are 
 
 Describe the differences between forks, clones and branches. When would you use one instead of another?
 Forks allows you to make a copy from another person's repository where clones are not allowed. Clones alowed you to make a copy from your own remote repository.  Branches can only be made in the same repository. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The benefit of having a copy of the last known state of the remote stored locally is so that we know how to merge the remote changes to the master in the future.
